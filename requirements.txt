@@ -3,5 +3,5 @@ numpy
 pycountry
 pandas
 bs4
-BeatifulSoup
-lmxl
+folium
+mapclassify
