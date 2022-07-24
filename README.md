@@ -1,13 +1,13 @@
-# La condition des femmes et le développement économique 
+# Gender Inequalities and Development 
 
-Projet Python - ENSAE - 2A
+Python Project- ENSAE - 2A
 
 Camille BALLU, Gaëlle DORMION, Julie NOWACK 
  
-Nous avons voulu étudier le lien entre la situation économique et sociale des femmes et le niveau de développement du pays. 
+We wanted to study the link between the economic and social situation of women and the level of development of the country.
 
-Pour mesurer ce lien, nous avons construit un indicateur multidimensionnel qui évalue l'impact de la condition des femmes sur le développement. 
+To measure this link, we have constructed a multidimensional indicator that assesses the impact of the condition of women on development.
 
-Notre travail se trouve dans ce [Notebook](https://github.com/cmllbll/projet-python-2A/blob/main/Condition%20des%20femmes%20et%20d%C3%A9veloppement%20%C3%A9conomique.ipynb).
+Our work is in this [Notebook](https://github.com/cmllbll/projet-python-2A/blob/main/Condition%20des%20femmes%20et%20d%C3%A9veloppement%20%C3%A9conomique.ipynb).
 ![image](https://user-images.githubusercontent.com/83026812/148454379-ae60ea7a-b55e-40fb-a2db-ea148b8bb6b3.png)
 
